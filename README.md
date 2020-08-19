@@ -16,3 +16,10 @@
 - [Everyone is a moon, and has a dark side which he never shows to anybody.](https://medium.com/@imadouguahi/everyone-is-a-moon-and-has-a-dark-side-which-he-never-shows-to-anybody-3faea0a9b51?source=your_stories_page---------------------------)
 - [Weak voting system.](https://medium.com/@imadouguahi/weak-voting-system-2e0ccad93ccb)
 <!-- BLOG-POST-LIST:END -->
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TH3-HUNT3R&show_icons=true&hide_border=true" />
+
+</details>
