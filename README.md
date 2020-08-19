@@ -10,7 +10,7 @@
 - 👽 Fun fact: 1 d0 r34lly l0v3 l3375p34k 🤭
 - 🥋 I do some karate 👊
 
-### 📕 Latest Blog Posts
+### 📕 Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Everyone is a moon, and has a dark side which he never shows to anybody.](https://medium.com/@imadouguahi/everyone-is-a-moon-and-has-a-dark-side-which-he-never-shows-to-anybody-3faea0a9b51?source=your_stories_page---------------------------)
