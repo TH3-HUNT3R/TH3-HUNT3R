@@ -17,9 +17,8 @@
 - [Weak voting system.](https://medium.com/@imadouguahi/weak-voting-system-2e0ccad93ccb)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="TH3-HUNT3R's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TH3-HUNT3R&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+## :zap: Github Stats 
 
-</details>
+- <img align="left" alt="TH3-HUNT3R's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TH3-HUNT3R&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+
