@@ -10,15 +10,9 @@
 - 👽 Fun fact: 1 d0 r34lly l0v3 l3375p34k 🤭
 - 🥋 I do some karate 👊
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+### 📕 Latest Blog Posts
 
-</details>
+<!-- BLOG-POST-LIST:START -->
+- [Everyone is a moon, and has a dark side which he never shows to anybody.](https://medium.com/@imadouguahi/everyone-is-a-moon-and-has-a-dark-side-which-he-never-shows-to-anybody-3faea0a9b51?source=your_stories_page---------------------------)
+- [Weak voting system.](https://medium.com/@imadouguahi/weak-voting-system-2e0ccad93ccb)
+<!-- BLOG-POST-LIST:END -->
