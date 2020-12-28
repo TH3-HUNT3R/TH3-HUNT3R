@@ -20,5 +20,5 @@
 
 ## :zap: Github Stats 
 
-- <img align="left" alt="TH3-HUNT3R's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TH3-HUNT3R&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+<img align="left" alt="TH3-HUNT3R's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TH3-HUNT3R&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
